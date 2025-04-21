@@ -1,4 +1,4 @@
-#  🧠 SmartPantry Manager
+ #  🧠 SmartPantry Manager
 ---
 
 ### An efficient way of Pantry Management!
